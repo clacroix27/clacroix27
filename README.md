@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Clayton 👋
+
+I build things — first with metal, then with images, and now with code.
+
+I came to software from the hands-on side: years of **aircraft mechanics**, **CNC machining**, and **metallurgy** taught me to respect tolerances, read the documentation, and figure out *why* something failed before fixing it. I bring that same habit to the web.
+
+## 🔭 What I'm working on
+
+- **Websites** — learning modern web development by building real sites, from simple static pages to client work
+- **Graphic design** — social media graphics and memes for content creators
+- **Rust** — self-teaching systems programming, one compiler error at a time
+
+## 🛠️ Skills & tools
+
+| Area | Tools |
+| --- | --- |
+| Web | HTML, CSS, JavaScript *(learning)*, GitHub Pages, Cloudflare |
+| Design | Photoshop (composites & retouching), photography, social graphics |
+| Programming | Rust *(learning)* |
+| Workflow | VS Code, Git & GitHub, Obsidian |
+
+## 📂 Projects
+
+*Coming soon — this section will grow as sites get built.*
 
 <!--
-**clacroix27/clacroix27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Add projects here as they ship. Template:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Project name
+One sentence on what it is and who it's for.
+**Built with:** HTML, CSS · **Live:** https://… · **Code:** https://github.com/clacroix27/…
 -->
+
+## 📫 Get in touch
+
+<!-- Add a contact link here when you're ready, e.g. a website or email -->
+Open an issue on any of my repos, or check back here as the portfolio grows.
+
+---
+
+📍 Michigan
