@@ -2,7 +2,7 @@
 
 I build things — first with metal, then with images, and now with code.
 
-I came to software from the hands-on side: years of **aircraft mechanics**, **CNC programming**, and **metallurgy** taught me to respect tolerances, read the documentation, and figure out *why* something failed before fixing it. I bring that same habit to the web.
+I came to software from the hands-on side: years of **aircraft mechanics**, **CNC programming** and **metalworking** taught me to respect tolerances, read the documentation, and figure out *why* something failed before fixing it. I bring that same habit to the web.
 
 ## 🔭 What I'm working on
 
