@@ -9,6 +9,7 @@ I came to software from the hands-on side: years of **aircraft mechanics**, **CN
 - **Websites** — learning modern web development by building real sites, from simple static pages to client work
 - **Graphic design** — social media graphics and memes for content creators
 - **Rust** — self-teaching systems programming, one compiler error at a time
+- **This portfolio** — first project in progress: a personal site at `clacroix27.github.io`
 
 ## 🛠️ Skills & tools
 
